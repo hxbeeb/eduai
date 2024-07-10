@@ -7,8 +7,8 @@ export function Footer({ title, description, socials, menus, copyright }) {
   return (
     <footer className="relative px-4 pt-8 pb-6 bg-black pr-10 rounded-tl-2xl rounded-tr-2xl mr-12 ml-12">
       <div>
-        <Typography className="text-center text-white" variant="h2" ><span className="text-red-800">EDU</span> AI</Typography>
-        <Typography className="text-center text-white" variant="h5" >Join the AI revolution in education with Edu-AI today.</Typography>
+        <Typography className="text-center text-white" variant="h2" ><span className="text-red-800">Interactive Edu Bot</span> AI</Typography>
+        <Typography className="text-center text-white" variant="h5" >Join the AI revolution in Interactive Edu Botcation with Interactive Edu Bot-AI today.</Typography>
       </div>
       <div className="container mx-auto">
         <hr className="my-6 border-gray-300" />
@@ -28,7 +28,7 @@ export function Footer({ title, description, socials, menus, copyright }) {
 }
 
 Footer.defaultProps = {
-  title: "EDU AI",
+  title: "Interactive Edu Bot AI",
   description:
     "Boost your front desk with our AI Receptionist for better customer service and smoother operations..",
   socials: [
@@ -45,7 +45,7 @@ Footer.defaultProps = {
   ],
   copyright: (
     <>
-      Copyright © {year} | EDU AI{" "}
+      Copyright © {year} | Interactive Edu Bot AI{" "}
     </>
   ),
 };

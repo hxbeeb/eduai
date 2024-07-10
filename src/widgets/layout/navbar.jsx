@@ -249,7 +249,7 @@ export function Navbar({ brandName, routes, action }) {
 }
 
 Navbar.defaultProps = {
-  brandName: "EDU",
+  brandName: "Interactive Edu Bot",
   action: (
     <Link to="/sign-in">
       {/* <Button variant="gradient" size="sm" fullWidth>

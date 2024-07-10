@@ -35,7 +35,7 @@ export function Home() {
                 color="white"
                 className="mb-6 font-black mt-12"
               >
-                 Revolutionize Your Study Experience with <span className="text-red-900">EDU</span> AI
+                 Revolutionize Your Study Experience with <span className="text-red-900">Interactive Edu Bot</span> AI
               </Typography>
               <Typography variant="lead" color="white" className="opacity-80 mt-0">
               Harness AI to Transcribe, Summarize, and Quiz Effortlessly.
@@ -116,11 +116,11 @@ export function Home() {
                     About us
                   </Typography>
                   <Typography className="mb-8 font-normal text-blue-gray-500">
-                  Edu-AI is a cutting-edge self-learning web application transforming how individuals learn through advanced AI technology. We specialize in creating personalized, interactive learning experiences for users of all ages and backgrounds.
+                  Interactive Edu Bot-AI is a cutting-edge self-learning web application transforming how individuals learn through advanced AI technology. We specialize in creating personalized, interactive learning experiences for users of all ages and backgrounds.
 
-Our AI-powered assistant converts educational content into detailed transcriptions, concise summaries, and interactive Q&A sessions. This innovative approach enhances comprehension and retention, optimizing the learning process.
+Our AI-powered assistant converts Interactive Edu Botcational content into detailed transcriptions, concise summaries, and interactive Q&A sessions. This innovative approach enhances comprehension and retention, optimizing the learning process.
 
-Our strength lies in seamlessly integrating AI with educational resources to deliver customized study materials and automated assessments. Edu-AI aims to lead the AI-driven education market by providing a reliable and impactful learning tool.
+Our strength lies in seamlessly integrating AI with Interactive Edu Botcational resources to deliver customized study materials and automated assessments. Interactive Edu Bot-AI aims to lead the AI-driven Interactive Edu Botcation market by providing a reliable and impactful learning tool.
                     <br />
                     <br /> 
                   </Typography>
@@ -145,7 +145,7 @@ Our strength lies in seamlessly integrating AI with educational resources to del
                       </Typography>
                       <Typography className="font-normal text-blue-gray-500">
                         <ul>
-                          <li>AI-Powered Learning Assistant: Transforms educational content with advanced AI technology.</li>
+                          <li>AI-Powered Learning Assistant: Transforms Interactive Edu Botcational content with advanced AI technology.</li>
                           <li>Personalized Study Experience: Tailors materials and assessments to individual needs.</li>
                           <li>Efficient and Accessible Learning: Optimizes learning processes for all users.</li>
                         </ul>

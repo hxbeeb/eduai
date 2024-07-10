@@ -45,7 +45,7 @@ function Dashboard() {
                 <>
                     <section className="p-4 md:p-12 text-center mt-28">
                         <div className="mx-auto container mt-8 md:mt-40">
-                            <Typography className="mb-4" variant="h2">Welcome to <span className="text-red-700">EDU</span> AI</Typography>
+                            <Typography className="mb-4" variant="h2">Welcome to <span className="text-red-700">Interactive Edu Bot</span> AI</Typography>
                             <div className="flex flex-col items-center">
                                 <Typography variant="h5">Your email: {userDetails.email}</Typography>
                                 {window.location.pathname !== "/dashboard" ? (

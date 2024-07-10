@@ -1,1 +1,1 @@
-### EDU Ai
+### Interactive Edu Bot Ai
